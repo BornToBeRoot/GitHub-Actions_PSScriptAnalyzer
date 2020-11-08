@@ -1,2 +1,7 @@
-# GitHub-Actions_PSScriptAnalyzer
-PSScriptAnalyzer integration for GitHub Actions
+# PSScriptAnalyzer integration for GitHub Actions
+
+## How does it work?
+
+## Install
+
+
