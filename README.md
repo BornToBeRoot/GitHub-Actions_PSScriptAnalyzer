@@ -11,8 +11,21 @@ The worklow can be modified to run on all branches and on all pull requests by e
 
 ## Install & Use
 
-1) Fork this repository (you can rename it in the Repository settings)
-2) Adjust the workflow file if necessary [psscriptanalyzer.yml](.github/workflows/psscriptanalyzer.yml)
-3) Adjust the [README.md](README.md), e.g. modify the URL for the badge
-4) Push some PowerShell code to the repository or create a pull request to test the workflow
-5) Enjoy!
+Fork this repository via GitHub or clone via commandline:
+
+```
+git clone https://github.com/BornToBeRoot/GitHub-Actions_PSScriptAnalyzer PROJEKTNAME
+cd PROJEKTNAME
+git remote set-url origin https://github.com/USERNAME/PROJEKTNAME
+git remote -v
+git push
+```
+
+Now you can push some PowerShell code to the repository or create a pull reuqest to test the workflow.
+
+Note: _You can rename the repository in the settings after you have fork it via GitHub_
+
+**Optional**
+
+- Adjust the workflow file ([psscriptanalyzer.yml](.github/workflows/psscriptanalyzer.yml)) if necessary
+- Adjust the [README.md](README.md), e.g. modify the URL of the badge
