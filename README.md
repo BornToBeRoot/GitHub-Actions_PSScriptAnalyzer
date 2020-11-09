@@ -1,6 +1,6 @@
 # PSScriptAnalyzer integration for GitHub Actions
 
-![PSScriptAnalyzer](https://github.com/BornToBeRoot/GitHub-Actions_PSScriptAnalyzer/workflows/CITZEST/badge.svg?branch=main)
+![CI](https://github.com/BornToBeRoot/GitHub-Actions_PSScriptAnalyzer/workflows/CI/badge.svg?branch=main)
 
 ## How does it work?
 
