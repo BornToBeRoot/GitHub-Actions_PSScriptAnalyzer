@@ -79,4 +79,8 @@ End {
 
         exit 1
     }
+    else 
+    {
+        Write-Information -MessageData "PSScriptAnalyzer is happy :)"   
+    }
 }
