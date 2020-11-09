@@ -13,5 +13,6 @@ The worklow can be modified to run on all branches and on all pull requests by e
 
 1) Fork this repository (you can rename it in the Repository settings)
 2) Adjust the workflow file if necessary [psscriptanalyzer.yml](.github/workflows/psscriptanalyzer.yml)
-2) Push your PowerShell code to the repository or create a pull request to test the workflow
-3) Enjoy!
+3) Adjust the [README.md](README.md), e.g. modify the URL for the badge
+4) Push some PowerShell code to the repository or create a pull request to test the workflow
+5) Enjoy!
