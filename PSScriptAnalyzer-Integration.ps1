@@ -24,7 +24,7 @@
     PSScriptAnalyzer integration for GitHub Actions.
 
     .DESCRIPTION    
-    PSScriptAnalyzer integration for GitHub Actions
+    PSScriptAnalyzer integration for GitHub Actions.
     
     .EXAMPLE
     
